@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-memories/static/css/main.a69998ef.css",
+    "main.js": "/school-memories/static/js/main.1e830335.js",
+    "static/js/453.d41c8418.chunk.js": "/school-memories/static/js/453.d41c8418.chunk.js",
+    "index.html": "/school-memories/index.html",
+    "main.a69998ef.css.map": "/school-memories/static/css/main.a69998ef.css.map",
+    "main.1e830335.js.map": "/school-memories/static/js/main.1e830335.js.map",
+    "453.d41c8418.chunk.js.map": "/school-memories/static/js/453.d41c8418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69998ef.css",
+    "static/js/main.1e830335.js"
+  ]
+}

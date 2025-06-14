@@ -1,0 +1,51 @@
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+.memories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.memories img {
+  width: 220px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+}
+
+.top-marquee, .bottom-marquee {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.top-marquee {
+  background: #f8f4f7;
+  color: rgb(4, 49, 252);
+}
+
+.bottom-marquee {
+  background-color: #03fd3e;
+  color: rgb(11, 0, 0);
+}
+
+.quote-marquee {
+  margin-top: 30px;
+  font-size: 1em;
+  font-style: italic;
+  background-color: #fb9ddce0;
+  padding: 10px;
+}
+
+.babu-message {
+  margin-top: 30px;
+  background: #fafc87;
+  padding: 20px;
+  border-left: 5px solid orange;
+  font-size: 1.1em;
+}

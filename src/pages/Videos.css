@@ -1,0 +1,27 @@
+.page.videos {
+  padding: 20px;
+  text-align: center;
+}
+
+.page.videos iframe {
+  width: 90%;
+  max-width: 640px;
+  height: 360px;
+  margin: 10px 0;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+.video-block {
+  margin-bottom: 30px;
+}
+
+.video-block a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.video-block a:hover {
+  text-decoration: underline;
+}

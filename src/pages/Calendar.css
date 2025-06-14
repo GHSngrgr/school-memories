@@ -1,0 +1,20 @@
+/* File: src/pages/Calendar.css */
+
+.page.calendar {
+  text-align: center;
+  padding: 20px;
+}
+
+.birthday-marker {
+  font-size: 18px;
+  color: red;
+}
+
+.birthday-info {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+  background-color: #f0f8ff;
+  padding: 10px;
+  border-radius: 10px;
+}
